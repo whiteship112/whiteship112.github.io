@@ -3,7 +3,7 @@ layout: post
 title: The Eternal Lorem Ipsum Placeholder Text Here
 author: Author Name
 ---
-
+이것이 깃헙 지킬 블로그인것인가.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. 
 
 ## The Eternal Lorem Ipsum? 
